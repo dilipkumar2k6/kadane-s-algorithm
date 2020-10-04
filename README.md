@@ -40,10 +40,12 @@ var maxSubArray = function(nums) {
 # Problems
 ## 1d
 https://leetcode.com/problems/maximum-subarray/
+
 https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 
 ## 2d
 https://www.lintcode.com/problem/maximum-submatrix/description
+
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 # Reference
 https://www.youtube.com/watch?v=2MmGzdiKR9Y
