@@ -41,8 +41,6 @@ var maxSubArray = function(nums) {
 ## 1d
 https://leetcode.com/problems/maximum-subarray/
 
-https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
-
 ## 2d
 https://www.lintcode.com/problem/maximum-submatrix/description
 
