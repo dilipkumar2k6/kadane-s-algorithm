@@ -39,7 +39,19 @@ var maxSubArray = function(nums) {
 ![](assets/2d-2.png)
 # Problems
 ## 1d
-https://leetcode.com/problems/maximum-subarray/
+https://www.lintcode.com/problem/maximum-subarray/description
+
+https://www.lintcode.com/problem/maximum-subarray-ii/description
+
+https://www.lintcode.com/problem/maximum-subarray-iii/description
+
+https://www.lintcode.com/problem/maximum-subarray-iv/description
+
+https://www.lintcode.com/problem/maximum-subarray-v/description
+
+https://www.lintcode.com/problem/maximum-subarray-vi/description
+
+https://www.xspdf.com/resolution/58839123.html
 
 ## 2d
 https://www.lintcode.com/problem/maximum-submatrix/description
